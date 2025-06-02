@@ -28,3 +28,10 @@
 <div align="center">
   <a href="#976215130"><img width="150" src="https://skillicons.dev/icons?i=ae,ps,blender,vercel,kali" alt="Skills Icons" /></a>
 </div>
+
+
+<h3 align="center"><a href="#start">PLAY</a></h3>
+
+<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/8cdcacea-5fac-449c-a90b-a4f69f8672a6)</a>
+<h3 id="start" align="center"><a href="#2">Test</a></h3>
+
