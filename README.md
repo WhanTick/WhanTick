@@ -30,20 +30,25 @@
 </div>
 
 
-<h3 align="center"><a href="#start">PLAY</a></h3>
+<h3 align="center"><a href="#start">Play The Game</a></h3>
 
 
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
 
-<h3 id="start" align="center"><a href="#2">Test</a></h3>
+<h3 id="start" align="center"><a href="#2">Proceed</a></h3>
 <p>You are starting the game.</p>
 
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
 
-<h3 id="2" align="center"><a href="#2">waw</a></h3>
+<h3 id="2" align="center"><a href="#3">Proceed</a></h3>
 <p>You are almost playing the game.</p>
+
+<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+
+<h3 id="3" align="center"><a href="#4">Proceed</a></h3>
+<p>Game is actually about to start.</p>
 
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
