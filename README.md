@@ -41,7 +41,7 @@ Click below to start:
 <h3 id="start" align="center"><a href="#step1">Start Your Adventure</a></h3>
 
 <p>Welcome, brave hero! Your quest begins now.</p>
-<a id="refresh1" href="https://github.com/hamgarian#refresh2">Refresh</a>
+<a id="refresh1" href="https://github.com/hamgarian#refresh2?reload=1">Refresh</a>
 
 <a href="#step1"><img width="150" src="https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e" alt="Hero SVG" /></a>
 
@@ -52,7 +52,7 @@ Click below to start:
 <h3 id="step1" align="center"><a href="#step2">Proceed</a></h3>
 
 <p>You enter a dark forest. What do you do?</p>
-<a id="refresh2" href="https://github.com/hamgarian#refresh1">Refresh</a>
+<a id="refresh2" href="https://github.com/hamgarian#refresh1?reload=1">Refresh</a>
 
 <a href="#step2"><img width="300" src="https://github.com/user-attachments/assets/f24ecbb8-9de6-4364-ac76-d5fbc5564c99" alt="Forest SVG" /></a>
 
