@@ -38,6 +38,7 @@
 
 <h3 id="start" align="center"><a href="#2">Proceed</a></h3>
 <p>You are starting the game.</p>
+
 ![cathy01](https://github.com/user-attachments/assets/9f0705a6-7957-4451-8fb3-fca187e4be4b)
 
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
@@ -45,12 +46,14 @@
 
 <h3 id="2" align="center"><a href="#3">Proceed</a></h3>
 <p>You are almost playing the game.</p>
+
 ![totorzo-transparent](https://github.com/user-attachments/assets/6ae7e9d2-2a33-4a9a-8b9f-360cf483eb18)
 
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
 <h3 id="3" align="center"><a href="#4">Proceed</a></h3>
 <p>Game is actually about to start.</p>
+
 ![sonic](https://github.com/user-attachments/assets/bd9c19a0-2944-4177-8d64-1d008b7b9f77)
 
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
