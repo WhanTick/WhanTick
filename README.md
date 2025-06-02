@@ -1,4 +1,4 @@
-![test](https://github.com/user-attachments/assets/46727561-16b9-4ff6-b03e-15970b316d9e)
+![Untitled (2)](https://github.com/user-attachments/assets/476cec97-2b58-4438-a9cc-a88bac13e5bf)
 
 ![scaled_output](https://github.com/user-attachments/assets/a2b1c48a-1dc1-4b1a-878a-f80d0cac4363)
 <div align="center">
