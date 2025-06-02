@@ -1,8 +1,8 @@
 <a href="#976215130">
   <img src="https://github.com/user-attachments/assets/476cec97-2b58-4438-a9cc-a88bac13e5bf" alt="Untitled (2)">
 </a>
-<a id="refresh2" href="https://github.com/hamgarian?reload=2#refresh2">Refresh</a>
-<a id="refresh1" href="https://github.com/hamgarian?reload=1#refresh1">Refresh</a>
+
+
 
 <a href="#976215130">![Untitled (3)](https://github.com/user-attachments/assets/f24ecbb8-9de6-4364-ac76-d5fbc5564c99)</a>
 
@@ -53,6 +53,8 @@ Click below to start:
 <h3 id="step1" align="center"><a href="#step2">Proceed</a></h3>
 
 <p>You enter a dark forest. What do you do?</p>
+
+<a id="refresh" href="https://workers-playground-square-morning-10db.ilhamgoesasi5.workers.dev/">Refresh</a>
 
 
 <a href="#step2"><img width="300" src="https://github.com/user-attachments/assets/f24ecbb8-9de6-4364-ac76-d5fbc5564c99" alt="Forest SVG" /></a>
