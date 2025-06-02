@@ -32,12 +32,13 @@
 
 <h3 align="center"><a href="#start">PLAY</a></h3>
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/edbbb225-4c88-47f6-85df-20b238781901)</a>
+<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
 
 <h3 id="start" align="center"><a href="#2">Test</a></h3>
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/edbbb225-4c88-47f6-85df-20b238781901)</a>
+<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+
 
 <h3 id="#2" align="center"><a href="#2">waw</a></h3>
 
