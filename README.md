@@ -40,5 +40,5 @@
 <a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
 
-<h3 id="#2" align="center"><a href="#2">waw</a></h3>
+<h3 id="2" align="center"><a href="#2">waw</a></h3>
 
