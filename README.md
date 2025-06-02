@@ -32,6 +32,8 @@
 
 <h3 align="center"><a href="#start">PLAY</a></h3>
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/8cdcacea-5fac-449c-a90b-a4f69f8672a6)</a>
+<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/edbbb225-4c88-47f6-85df-20b238781901)</a>
+
+
 <h3 id="start" align="center"><a href="#2">Test</a></h3>
 
