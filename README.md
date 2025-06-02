@@ -25,36 +25,61 @@
 
 <hr>
 
-<div align="center">
-  <a href="#976215130"><img width="150" src="https://skillicons.dev/icons?i=ae,ps,blender,vercel,kali" alt="Skills Icons" /></a>
-</div>
-
-
 <h3 align="center"><a href="#start">Play The Game</a></h3>
 
+Click below to start:
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+<a href="#start"><img src="https://github.com/user-attachments/assets/9f0705a6-7957-4451-8fb3-fca187e4be4b" alt="Start Game" width="200"/></a>
 
+---
 
-<h3 id="start" align="center"><a href="#2">Proceed</a></h3>
-<p>You are starting the game.</p>
+<!-- Animation separator (reused) -->
+<a id="bruh" href="#bruh">![Loading](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
-![cathy01](https://github.com/user-attachments/assets/9f0705a6-7957-4451-8fb3-fca187e4be4b)
+---
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+<h3 id="start" align="center"><a href="#step1">Start Your Adventure</a></h3>
 
+<p>Welcome, brave hero! Your quest begins now.</p>
 
-<h3 id="2" align="center"><a href="#3">Proceed</a></h3>
-<p>You are almost playing the game.</p>
+<a href="#step1"><img width="150" src="https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e" alt="Hero SVG" /></a>
 
-![totorzo-transparent](https://github.com/user-attachments/assets/6ae7e9d2-2a33-4a9a-8b9f-360cf483eb18)
+---
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+<a id="bruh" href="#bruh">![Loading](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
 
-<h3 id="3" align="center"><a href="#4">Proceed</a></h3>
-<p>Game is actually about to start.</p>
+<h3 id="step1" align="center"><a href="#step2">Proceed</a></h3>
 
-![sonic](https://github.com/user-attachments/assets/bd9c19a0-2944-4177-8d64-1d008b7b9f77)
+<p>You enter a dark forest. What do you do?</p>
 
-<a id="bruh" href="#bruh">![qweqe](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+<a href="#step2"><img width="300" src="https://github.com/user-attachments/assets/f24ecbb8-9de6-4364-ac76-d5fbc5564c99" alt="Forest SVG" /></a>
 
+---
+
+<a id="bruh" href="#bruh">![Loading](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+
+<h3 id="step2" align="center"><a href="#step3">Proceed</a></h3>
+
+<p>A wild monster appears! Ready your sword!</p>
+
+<a href="#step3"><img width="300" src="https://github.com/user-attachments/assets/bd9c19a0-2944-4177-8d64-1d008b7b9f77" alt="Monster SVG" /></a>
+
+---
+
+<a id="bruh" href="#bruh">![Loading](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+
+<h3 id="step3" align="center"><a href="#final">Final Battle</a></h3>
+
+<p>Victory is near, keep going!</p>
+
+<a href="#final"><img width="300" src="https://github.com/user-attachments/assets/6ae7e9d2-2a33-4a9a-8b9f-360cf483eb18" alt="Battle SVG" /></a>
+
+---
+
+<a id="bruh" href="#bruh">![Loading](https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e)</a>
+
+<h3 id="final" align="center"><a href="#start">Play Again</a></h3>
+
+<p>You won the game! Thanks for playing.</p>
+
+<a href="#start"><img width="200" src="https://github.com/user-attachments/assets/9f0705a6-7957-4451-8fb3-fca187e4be4b" alt="Victory SVG" /></a>
