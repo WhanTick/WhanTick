@@ -41,6 +41,7 @@ Click below to start:
 <h3 id="start" align="center"><a href="#step1">Start Your Adventure</a></h3>
 
 <p>Welcome, brave hero! Your quest begins now.</p>
+<a id="refresh" href="https://github.com/hamgarian#refresh">Refresh</a>
 
 <a href="#step1"><img width="150" src="https://github.com/user-attachments/assets/0921f8bf-086a-48a7-a2be-7fe00b0c924e" alt="Hero SVG" /></a>
 
