@@ -24,7 +24,11 @@
   <a href="#976215130"><code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></a>
 </div>
 
+
 <hr>
+<div align="center">
+  <a href="#976215130"><img width="150" src="https://skillicons.dev/icons?i=ae,ps,blender,vercel,kali" alt="Skills Icons" /></a>
+</div>
 
 <h3 align="center"><a href="#start">Play The Game</a></h3>
 
