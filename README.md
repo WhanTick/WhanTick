@@ -23,7 +23,7 @@
   <a href="#bottom"><code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></a>
   <a href="#bottom"><code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></a>
   <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/e66cdb58-fb18-4149-aa35-694e93962732" alt="Cloudflare Workers" title="Cloudflare Workers"/></code></a>
-  <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/de095128-b6b6-4888-a12e-764f967208af" alt="Cloudflare Workers" title="Cloudflare Workers"/></code></a>
+  <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/de095128-b6b6-4888-a12e-764f967208af" alt="Github Actions" title="Github Actions"/></code></a>
  
   
 
