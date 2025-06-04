@@ -24,15 +24,17 @@
   <a href="#bottom"><code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></a>
   <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/e66cdb58-fb18-4149-aa35-694e93962732" alt="Cloudflare Workers" title="Cloudflare Workers"/></code></a>
   <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/de095128-b6b6-4888-a12e-764f967208af" alt="Github Actions" title="Github Actions"/></code></a>
- 
+  <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/1ca34497-9b3e-4d1e-9d24-cb9286fd4873" alt="Vercel" title="Vercel"/></code></a>
+  <a href="#bottom"><code><img width="25" src="https://github.com/user-attachments/assets/afbe08a4-753b-4e0e-832c-2b8f5362240a" alt="Kali Linux" title="Kali Linux"/></code></a>
   
+
 
 </div>
 
 
 <hr>
 <div align="center">
-  <a href="#bottom"><img width="150" src="https://skillicons.dev/icons?i=ae,ps,blender,vercel,kali" alt="Skills Icons" /></a>
+  <a href="#bottom"><img width="150" src="https://skillicons.dev/icons?i=ae,ps,blender" alt="Skills Icons" /></a>
 </div>
 
 <p id="bottom"></p>
